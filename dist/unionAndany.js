@@ -13,4 +13,8 @@ for (let order of orders) {
     }
 }
 console.log(currentOrder);
+//any
+let ans;
+ans = 10;
+ans = 'ads';
 //# sourceMappingURL=unionAndany.js.map
